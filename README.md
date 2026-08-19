@@ -1,9 +1,9 @@
 # enieuwy/homebrew-tap
 
-Homebrew tap for [glean](https://github.com/enieuwy/glean) and future tools.
+Homebrew tap for [rumen](https://github.com/enieuwy/rumen) and future tools.
 
 ```sh
-brew install --cask enieuwy/tap/glean
+brew install --cask enieuwy/tap/rumen
 ```
 
 Casks are published automatically by each project's release workflow
